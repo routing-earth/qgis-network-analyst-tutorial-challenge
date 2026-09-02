@@ -13,19 +13,19 @@ To make a transition easy enough, we'd like to end up replicating the [public an
 
 The challenge is to [create a PR](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/pulls) and follow through with our thorough review process. Here are the topics and their related issues:
 
-- [ ] [Calculate the travel time between origins and destinations with OD Cost Matrix](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/issues/1)
-- [ ] [Choose the best location with Location-Allocation](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/issues/2)
-- [ ] [Find best routes to service paired orders](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/issues/3)
-- [ ] [Find the shortest path and generate directions with Route](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/issues/4)
-- [ ] [Identify the closest facility](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/issues/5)
-- [ ] [Service a set of orders with a fleet of vehicles](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/issues/6)
-- [ ] [Service multiple customers from a single distribution center using Last Mile Delivery](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/issues/7)
-- [ ] [Visualize the reachable area with Service Area](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/issues/8)
-- [ ] [Optimize municipal waste collection routes](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/issues/9)
-- [ ] [Create a Python script tool using arcpy.nax](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/issues/10)
-- [ ] [Create a model for route analysis](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/issues/11)
-- [ ] [Create and use a network dataset with public transit data](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/issues/12)
-- [ ] [Create a network dataset](https://github.com/routing-earth/qgis-network-analyst-tutorial-challenge/issues/13)
+- [ ] [Calculate the travel time between origins and destinations with OD Cost Matrix](https://doc.esri.com/en/arcgis-pro/latest/help/analysis/networks/od-cost-matrix-tutorial.html)
+- [ ] [Choose the best location with Location-Allocation](https://doc.esri.com/en/arcgis-pro/latest/help/analysis/networks/location-allocation-tutorial.html)
+- [ ] [Find best routes to service paired orders](https://doc.esri.com/en/arcgis-pro/latest/help/analysis/networks/find-best-routes-to-service-paired-orders.html)
+- [ ] [Find the shortest path and generate directions with Route](https://doc.esri.com/en/arcgis-pro/latest/help/analysis/networks/route-tutorial.html)
+- [ ] [Identify the closest facility](https://doc.esri.com/en/arcgis-pro/latest/help/analysis/networks/closest-facility-tutorial.html)
+- [ ] [Service a set of orders with a fleet of vehicles](https://doc.esri.com/en/arcgis-pro/latest/help/analysis/networks/service-a-set-of-orders-with-a-fleet-of-vehicles.html)
+- [ ] [Service multiple customers from a single distribution center using Last Mile Delivery](https://doc.esri.com/en/arcgis-pro/latest/help/analysis/networks/last-mile-delivery.html)
+- [ ] [Visualize the reachable area with Service Area](https://doc.esri.com/en/arcgis-pro/latest/help/analysis/networks/service-area-tutorial.html)
+- [ ] [Optimize municipal waste collection routes](https://doc.esri.com/en/arcgis-pro/latest/help/analysis/networks/waste-collection.html)
+- [ ] [Create a Python script tool using arcpy.nax](https://doc.esri.com/en/arcgis-pro/latest/help/analysis/networks/create-a-python-script-tool-using-arcpy-nax.html)
+- [ ] [Create a model for route analysis](https://doc.esri.com/en/arcgis-pro/latest/help/analysis/networks/create-a-model-for-route-analysis.html)
+- [ ] [Create and use a network dataset with public transit data](https://doc.esri.com/en/arcgis-pro/latest/help/analysis/networks/create-and-use-a-network-dataset-with-public-transit-data.html)
+- [ ] [Create a network dataset](https://doc.esri.com/en/arcgis-pro/latest/help/analysis/networks/how-to-create-a-usable-network-dataset.html)
 
 ## The reward
 
