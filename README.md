@@ -29,7 +29,7 @@ The challenge is to [create a PR](https://github.com/routing-earth/qgis-network-
 
 ## The reward
 
-The reward will be a **1 year free** monthly graph subscription in our [Graph Shop](https://routing-earth.com/browse) for the **continent** of your choice.
+The reward will be a **1 year free** weekly graph subscription in our [Graph Shop](https://routing-earth.com/browse) for the **graph size equivalent of the African continent**.
 
 ## Other requirements
 
